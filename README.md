@@ -11,4 +11,4 @@ tanto na teotia quanto na pratica.</h2>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br>
-<img src=""
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Pagina-Sorteio/af694c0dbfd99f0e8133cfe1b80ba0610811a367/assets/img-sorteio.png">
